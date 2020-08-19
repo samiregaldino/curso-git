@@ -1,0 +1,13 @@
+C:\Samire Programaçao\c#\aulas curso\seção 8, git, github\projeto teste\projeto teste\bin\Debug\netcoreapp3.1\projeto teste.exe
+C:\Samire Programaçao\c#\aulas curso\seção 8, git, github\projeto teste\projeto teste\bin\Debug\netcoreapp3.1\projeto teste.deps.json
+C:\Samire Programaçao\c#\aulas curso\seção 8, git, github\projeto teste\projeto teste\bin\Debug\netcoreapp3.1\projeto teste.runtimeconfig.json
+C:\Samire Programaçao\c#\aulas curso\seção 8, git, github\projeto teste\projeto teste\bin\Debug\netcoreapp3.1\projeto teste.runtimeconfig.dev.json
+C:\Samire Programaçao\c#\aulas curso\seção 8, git, github\projeto teste\projeto teste\bin\Debug\netcoreapp3.1\projeto teste.dll
+C:\Samire Programaçao\c#\aulas curso\seção 8, git, github\projeto teste\projeto teste\bin\Debug\netcoreapp3.1\projeto teste.pdb
+C:\Samire Programaçao\c#\aulas curso\seção 8, git, github\projeto teste\projeto teste\obj\Debug\netcoreapp3.1\projeto teste.csprojAssemblyReference.cache
+C:\Samire Programaçao\c#\aulas curso\seção 8, git, github\projeto teste\projeto teste\obj\Debug\netcoreapp3.1\projeto teste.AssemblyInfoInputs.cache
+C:\Samire Programaçao\c#\aulas curso\seção 8, git, github\projeto teste\projeto teste\obj\Debug\netcoreapp3.1\projeto teste.AssemblyInfo.cs
+C:\Samire Programaçao\c#\aulas curso\seção 8, git, github\projeto teste\projeto teste\obj\Debug\netcoreapp3.1\projeto teste.csproj.CoreCompileInputs.cache
+C:\Samire Programaçao\c#\aulas curso\seção 8, git, github\projeto teste\projeto teste\obj\Debug\netcoreapp3.1\projeto teste.dll
+C:\Samire Programaçao\c#\aulas curso\seção 8, git, github\projeto teste\projeto teste\obj\Debug\netcoreapp3.1\projeto teste.pdb
+C:\Samire Programaçao\c#\aulas curso\seção 8, git, github\projeto teste\projeto teste\obj\Debug\netcoreapp3.1\projeto teste.genruntimeconfig.cache
